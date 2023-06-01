@@ -1,0 +1,18 @@
+input {
+    box-shadow: none;
+}
+
+h2 {
+    text-align: center;
+    color: blue;
+}
+
+.two {
+    text-align: center;
+    width: 25;
+}
+.one{
+    text-align: center;
+    width: 25;
+}
+    

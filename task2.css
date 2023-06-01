@@ -1,0 +1,36 @@
+h2 {
+    background-color: skyblue;
+    color: aliceblue;
+    text-align: center;
+    margin: 75px;
+
+}
+
+img {
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+}
+
+#two {
+    color:green;
+    padding-left: 250px;
+
+}
+
+.one {
+    
+ 
+    color: blue;
+    padding-left: 250px;
+    
+}
+
+body {
+    font-family: sans-serif;
+
+}
+
+body {
+    background-color: lightslategray;
+}

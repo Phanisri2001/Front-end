@@ -1,0 +1,27 @@
+p{
+    background-color: white;
+    font-size: 25pt;
+}
+.text{
+    margin-top: 40px;
+    font-size: 90pt;
+    text-align: center;
+}
+li{
+    margin-top: 25px;
+    list-style-type: none;
+    color: #333333;
+}
+
+.text{
+    font-size: 20pt;
+    color: #333333;
+}
+p{
+    font-size: 14pt;
+    color: #333333;
+}
+li{
+    color: white;
+}
+
